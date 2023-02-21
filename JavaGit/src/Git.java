@@ -11,6 +11,7 @@ public class Git {
 		System.out.println("코드 작성 중");
 		System.out.println("코드 작성 중");
 		System.out.println("코드 작성 중");
+		System.out.println("코드 작성 중");
 		
 	}
 
